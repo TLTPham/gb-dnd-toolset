@@ -1,0 +1,20 @@
+{
+  "name": "gb-temp-dnd",
+  "version": "1.0.10",
+  "description": "Test module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --verbose ./__tests__"
+  },
+  "author": "Green-Bottle",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
