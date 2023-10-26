@@ -1,5 +1,11 @@
 # gb-dnd-toolset
 
+# HowTo
+## Install
+```bash
+npm install gb-temp-dnd
+```
+
 ## Character Sheet
 Basic character sheet for our templates.  This is a work in progress.
 
